@@ -1,4 +1,4 @@
 # test
 testing
 
-{% include youtube.html id="7gvs0mqKwdU" %}
+{% include youtube_short.html id="7gvs0mqKwdU" %}
