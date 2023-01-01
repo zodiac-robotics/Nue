@@ -1,5 +1,5 @@
 # Nue
-Nue is a last-mile delivery robot prototype.
+## Nue is a last-mile delivery robot prototype.
 
 #### The prototype started with creating a minimal working ROS robot.
 
