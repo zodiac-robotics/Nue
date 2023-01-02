@@ -29,13 +29,11 @@
 {% include youtube_short.html id="7gvs0mqKwdU" %}
 
 
-#### Final Renders :
+Render             |  Real
+:-------------------------:|:-------------------------:
+![red 21](https://user-images.githubusercontent.com/31615486/210176172-2a97abbe-da9a-4e4a-9747-b08333005166.png)  |  ![IMG_20220331_101632adf](https://user-images.githubusercontent.com/31615486/210176450-9957e49a-72fc-4dfc-bbea-0432dbb0fdcf.jpg)
 
-![red 21](https://user-images.githubusercontent.com/31615486/210176172-2a97abbe-da9a-4e4a-9747-b08333005166.png)
 
-#### Final :
-
-![IMG_20220331_101632adf](https://user-images.githubusercontent.com/31615486/210176450-9957e49a-72fc-4dfc-bbea-0432dbb0fdcf.jpg)
 
 #### Test Drive :
 
